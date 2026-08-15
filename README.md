@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Alin-Viorel Ciobanu 👋
 
-<!--
-**CiobanuAlinViorel/CiobanuAlinViorel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java backend developer and master's student in Software Development 
+and Business Information Systems at Alexandru Ioan Cuza University, Iași.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend (main focus)**
+- Java 17, Spring Boot, Spring Security
+- REST APIs, JWT authentication
+- JPA / Hibernate, PostgreSQL, Flyway migrations
+- Maven
+
+**Frontend (secondary)**
+- React, Next.js, TypeScript
+- Tailwind CSS
+
+## What I've built
+
+- **ProdTracker** — production management system with 6+ modules, 
+  deployed and used in a real manufacturing environment
+- **Portfolio Platform** — role-based platform with Spring Boot REST API, 
+  Spring Security, JWT, PostgreSQL, Angular
+- **Flowering Stories** — e-commerce app with Stripe payments, 
+  Sentry monitoring, Next.js, MongoDB
+
+## Currently
+
+- 🎓 Master's in Software Development @ UAIC Iași
+- 🔨 Building [Habit Builder](https://github.com/CiobanuAlinViorel/Habit-Builder) 
+  and [Time Tracker](https://github.com/CiobanuAlinViorel/TimeTracker)
+- 📫 alinviorelciobanu@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/alin-viorel-ciobanu-84b06b269/)
