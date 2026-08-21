@@ -27,7 +27,6 @@ and Business Information Systems at Alexandru Ioan Cuza University, Iași.
 ## Currently
 
 - 🎓 Master's in Software Development @ UAIC Iași
-- 🔨 Building [Habit Builder](https://github.com/CiobanuAlinViorel/Habit-Builder) 
-  and [Time Tracker](https://github.com/CiobanuAlinViorel/TimeTracker)
+- 🔨 Building [Poultry Production Management System]
 - 📫 alinviorelciobanu@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/alin-viorel-ciobanu-84b06b269/)
