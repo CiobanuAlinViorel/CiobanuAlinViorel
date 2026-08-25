@@ -17,8 +17,6 @@ and Business Information Systems at Alexandru Ioan Cuza University, Iași.
 
 ## What I've built
 
-- **ProdTracker** — production management system with 6+ modules, 
-  deployed and used in a real manufacturing environment
 - **Portfolio Platform** — role-based platform with Spring Boot REST API, 
   Spring Security, JWT, PostgreSQL, Angular
 - **Flowering Stories** — e-commerce app with Stripe payments, 
